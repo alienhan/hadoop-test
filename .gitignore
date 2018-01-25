@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 hadoop-test.iml
+
+# in directory: D:/gitrepo/hadoop-test
+git rm --cached --force ".idea/vcs.xml"
+git rm --cached --force ".idea/compiler.xml"
